@@ -1,0 +1,9 @@
+.food-details{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    background-color: rgb(196, 94, 94);
+}
+.food-details img{
+    width: 300px;
+}
